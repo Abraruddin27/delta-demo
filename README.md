@@ -1,2 +1,2 @@
 # delta-demo
-fist code for git 
+fist code for git.
